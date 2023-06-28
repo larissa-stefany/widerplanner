@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Historico_cliente extends CI_Controller {
+class Agendamento extends CI_Controller {
 	public function __construct()
 	{
 	  parent::__construct();
