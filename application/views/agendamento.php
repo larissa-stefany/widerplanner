@@ -68,13 +68,5 @@
             </form>
         </div>
     </div>
-
- <?php
-    // Verifica se o formulário foi enviado
-    if ($_SERVER["REQUEST_METHOD"] === "POST") {
-        // Restante do código PHP aqui
-        // ...
-    }
-    ?>
 </body>
 </html>
